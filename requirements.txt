@@ -1,4 +1,4 @@
-﻿aiohttp==3.7.4.post0
+﻿aiohttp==3.9.2
 altgraph==0.17
 animation==0.0.7
 astroid==2.5
